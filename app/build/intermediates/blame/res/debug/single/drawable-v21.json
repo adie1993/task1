@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adie/Documents/Calculate/app/build/intermediates/res/merged/debug/drawable-v21/pad_button_background.xml",
+        "source": "/home/adie/Documents/Calculate/app/src/main/res/drawable-v21/pad_button_background.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Calculate/app/build/intermediates/res/merged/debug/drawable-v21/pad_button_advanced_background.xml",
+        "source": "/home/adie/Documents/Calculate/app/src/main/res/drawable-v21/pad_button_advanced_background.xml"
+    }
+]

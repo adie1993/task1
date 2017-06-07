@@ -1,0 +1,217 @@
+[
+    {
+        "outputFile": "/home/adie/Documents/Calculate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-port/values-port.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 57,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 55,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 41,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 48,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 89,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1968
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1973,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2129
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2134,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2823
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2828,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3312
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3317,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 3798
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-port/styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/adie/Documents/Calculate/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_equals.png",
+        "source": "/home/adie/Documents/Calculate/app/src/main/res/mipmap-xxxhdpi/ic_equals.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Calculate/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/adie/Documents/Calculate/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Calculate/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/adie/Documents/Calculate/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

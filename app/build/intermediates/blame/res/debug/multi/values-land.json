@@ -1,0 +1,390 @@
+[
+    {
+        "outputFile": "/home/adie/Documents/Calculate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 61,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 71,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 69,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 69,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 69,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 63,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 63,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 70,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1595,
+                        "endColumn": 70,
+                        "endOffset": 1661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 67,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1666,
+                        "endColumn": 67,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 90,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/layout.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 90,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2283,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2288,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2397
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2444,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 2553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2402,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2559,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 3016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3023
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3022,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 3181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3028,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3604
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3187,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 3763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3609,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3769,
+                        "endLine": 98,
+                        "endColumn": 12,
+                        "endOffset": 4247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 4575
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-land/styles.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4253,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 4736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4580,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 4757
+                },
+                "from": {
+                    "file": "/home/adie/.android/build-cache/ff59bba90e1f18371800ee8bb0821a6492ad2521/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 463
+                    }
+                }
+            }
+        ]
+    }
+]

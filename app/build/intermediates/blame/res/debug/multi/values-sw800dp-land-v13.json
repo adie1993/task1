@@ -1,0 +1,217 @@
+[
+    {
+        "outputFile": "/home/adie/Documents/Calculate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw800dp-land-v13/values-sw800dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1501
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1506,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2242,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2357,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 2513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 1940
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2519,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 2678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1945,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2684,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2532,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3016
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3272,
+                        "endLine": 90,
+                        "endColumn": 12,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3021,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3506
+                },
+                "from": {
+                    "file": "/home/adie/Documents/Calculate/app/src/main/res/values-sw800dp-land/styles.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3762,
+                        "endLine": 101,
+                        "endColumn": 12,
+                        "endOffset": 4247
+                    }
+                }
+            }
+        ]
+    }
+]
