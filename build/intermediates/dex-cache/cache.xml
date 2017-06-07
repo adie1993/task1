@@ -2,94 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/adie/.android/build-cache/f9a338dfeb9a3d0d20cbad981a24627e9c216b19/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65f3566b7fa8ee8617978d2a7f8e427300f83f60/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/adie/.android/build-cache/16320a34f63b925a8a8e817f9b648fd07f4e192e/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e4e7ab7e9c46d58d65c1495ee54b0ecb028b67e/classes.dex" />
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/classes_7e4e7ab7e9c46d58d65c1495ee54b0ecb028b67e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/adie/Documents/Calculate/app/libs/arity-2.1.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/2/arity-2.1.2_6a6b6014941436461004df9de86e8de400d70bfe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/adie/.android/build-cache/f9a338dfeb9a3d0d20cbad981a24627e9c216b19/output/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_f433b9beb600e56f71fb1fbcc909ae151f9a6b8e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/adie/Documents/Calculate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec91d557775db914d01cb222f9e17df1e2c7b50a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/adie/.android/build-cache/ff59bba90e1f18371800ee8bb0821a6492ad2521/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5688187111f74f4fcb8b0d993d18629a2cace8a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/adie/Documents/Calculate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee4dda0b4b0185655a1169b63807dcf1a83f7eb5">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b80365e08a1149a1c188b90eb7203b52dfbe764e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42ac228de912a332846b7c6ca2ca40a17b2ca587/classes.dex" />
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/classes_42ac228de912a332846b7c6ca2ca40a17b2ca587.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/adie/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_571a60daf55b061e69df44ad323dc9878f975a02/classes.dex" />
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_571a60daf55b061e69df44ad323dc9878f975a02.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/home/adie/Documents/Calculate/app/libs/arity-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/arity-2.1.2_6a6b6014941436461004df9de86e8de400d70bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.android/build-cache/f9a338dfeb9a3d0d20cbad981a24627e9c216b19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/classes_65f3566b7fa8ee8617978d2a7f8e427300f83f60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.android/build-cache/f9a338dfeb9a3d0d20cbad981a24627e9c216b19/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_f433b9beb600e56f71fb1fbcc909ae151f9a6b8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/adie/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_6e8208ad46264974a374b906d53790eee618d7e6/classes.dex" />
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_6e8208ad46264974a374b906d53790eee618d7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.android/build-cache/ff59bba90e1f18371800ee8bb0821a6492ad2521/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/adie/Documents/Calculate/app/build/intermediates/pre-dexed/debug/classes_5688187111f74f4fcb8b0d993d18629a2cace8a8.jar" />
     </item>
 
 </items>

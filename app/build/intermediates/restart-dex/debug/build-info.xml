@@ -2,41 +2,68 @@
 <instant-run
     abi="x86"
     api-level="23"
-    build-mode="COLD"
-    density="560dpi"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1496807967448"
+    timestamp="1496809536499"
     token="-8917820887140269816"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1815" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="24" />
+        duration="0" />
     <task
         name="verifier"
-        duration="172" />
+        duration="0" />
 
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
     <artifact
         location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/home/adie/Documents/Calculate/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1496806299633"
+        timestamp="1496809536499"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
         <artifact
             location="/home/adie/Documents/Calculate/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
@@ -56,6 +83,9 @@
             location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
@@ -70,25 +100,6 @@
         <artifact
             location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1496807363559"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/adie/Documents/Calculate/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1496807967448"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/adie/Documents/Calculate/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/adie/Documents/Calculate/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

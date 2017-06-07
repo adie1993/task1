@@ -1,7 +1,4 @@
-#Wed Jun 07 10:47:32 WIB 2017
-base.0=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec91d557775db914d01cb222f9e17df1e2c7b50a
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b80365e08a1149a1c188b90eb7203b52dfbe764e/classes.dex
-base.1=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b80365e08a1149a1c188b90eb7203b52dfbe764e
-file.0=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec91d557775db914d01cb222f9e17df1e2c7b50a/classes.dex
+#Wed Jun 07 12:58:05 WIB 2017
+base.0=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/adie/Documents/Calculate/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
